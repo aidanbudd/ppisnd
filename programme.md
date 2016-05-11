@@ -60,7 +60,7 @@ DAY 3 - Wednesday 01 June 2016
 | 10.30–11.00 | *Coffee break*                            |                   |                        |
 | 11.00–12.30 | [Peptide and protein docking (I)](trainingMaterial/oraSchuelerFurman)               |     Ora Schueler-Furman             |                        |
 | 12.30–13.30 | *Lunch*                                   |                   |                        |
-| 13.30–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                 |   Ora Schueler-Furman                |                        |
+| 13.30–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                 |   Nawsad Alam & Ora Schueler-Furman                |                        |
 | 15.30–16.00 | *Coffee break*                            |                   |                        |
 | 16.00–17.00 | Plenary: TBA                              | Toby Gibson        |                        |
 | 17.00–17.30 | *Coffee break*                            |                   |                        |
