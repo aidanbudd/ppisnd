@@ -62,7 +62,7 @@ DAY 3 - Wednesday 01 June 2016
 | 12.30–13.30 | *Lunch*                                   |                   |                        |
 | 13.30–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                 |   Nawsad Alam & Ora Schueler-Furman                |                        |
 | 15.30–16.00 | *Coffee break*                            |                   |                        |
-| 16.00–17.00 | Plenary: TBA                              | Toby Gibson        |                        |
+| 16.00–17.00 | Plenary: Modular Protein Architecture and the Construction of Cell Regulatory Systems                              | Toby Gibson        |                        |
 | 17.00–17.30 | *Coffee break*                            |                   |                        |
 | 17.30–19.00 | [Multiple sequence alignments and Jalview](trainingMaterial/tobyGibson/MSA_Jalview)                          | Toby Gibson and Holger Dinkel |                        |
 
