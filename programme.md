@@ -64,21 +64,21 @@ DAY 3 - Wednesday 01 June 2016
 | 15.30–16.00 | *Coffee break*                            |                   |                        |
 | 16.00–17.00 | Plenary: Modular Protein Architecture and the Construction of Cell Regulatory Systems                              | Toby Gibson        |                        |
 | 17.00–17.30 | *Coffee break*                            |                   |                        |
-| 17.30–19.00 | [Multiple sequence alignments and Jalview](trainingMaterial/tobyGibson/MSA_Jalview)                          | Toby Gibson and Holger Dinkel |                        |
+| 17.30–19.00 | Working with your own data                         |  |                        |
 
 DAY 4 - Thursday 02 June 2016
 --------------------------------
 
 | Time        | Activity                                                  | Responsible    | Location               |
 | :---------- | :----------------------------------------                 | :------------- | :--------------------- |
-| 09.00–10.30 | [Protein families and domains and annotation transfer (I)](trainingMaterial/marcoPunta)  | Marco Punta    |                        |
+| 09.00–10.30 | [Multiple sequence alignments and Jalview](trainingMaterial/tobyGibson/MSA_Jalview)  | Toby Gibson and Holger Dinkel    |                        |
 | 10.30–11.00 | *Coffee break*                                            |                |                        |
-| 11.00–12.30 | [Protein families and domains and annotation transfer (II)](trainingMaterial/marcoPunta) | Marco Punta   |                        |
+| 11.00–12.30 | [Protein families and domains and annotation transfer (I)](trainingMaterial/marcoPunta) | Marco Punta   |                        |
 | 12.30–13.30 | *Lunch*                                                   |                |                        |
-| 13.30–15.00 | [Protein feature prediction and homology modelling](trainingMaterial/miguelAndrade/homology.md)         | Miguel Andrade  |                      |
+| 13.30–15.00 | [Protein families and domains and annotation transfer (II)](trainingMaterial/marcoPunta)         | Marco Punta  |                      |
 | 13.00–15.45 | *Parallel*: EMBL meeting                                    |                |                        |
 | 15.00–15.30 | *Coffee break*                                     |                |                        |
-| 15.30–16.45 | Working with own data | |
+| 15.30–16.45 | [Protein feature prediction and homology modelling](trainingMaterial/miguelAndrade/homology.md) | Miguel Andrade |
 | 17.00–      | *Excursion*                                               |                |                        |
 
 DAY 5 - Friday 03 June 2016
