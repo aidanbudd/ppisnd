@@ -43,8 +43,8 @@ DAY 2 - Tuesday 31 May 2016
 | 09.00–10.30 | [Network visualization with Cytoscape (I)](trainingMaterial/nadezhdaDoncheva)  | Scooter Morris & Nadya Doncheva |                        |
 | 10.30–11.00 | *Coffee break*                            |                                 |                        |
 | 11.00–12.30 | [Network visualization with Cytoscape (II)](trainingMaterial/nadezhdaDoncheva) | Scooter Morris & Nadya Doncheva |                        |
-| 12.30–13.30 | *Lunch*                                   |                                 |                        |
-| 13.30–15.30 | [Chimera protein structure (I)](trainingMaterial/scooterMorris)             | Scooter Morris                |                        |
+| 12.30–14.00 | *Lunch* and first *poster session*                                   |                                 |                        |
+| 14.00–15.30 | [Chimera protein structure (I)](trainingMaterial/scooterMorris)             | Scooter Morris                |                        |
 | 15.30–16.00 | *Coffee break*                            |                                 |                        |
 | 16.00–17.00 | Plenary talk: SMS in protein communication: How Short Motif Sequences are read and understood                               | Ora Schueler-Furman                      |                        |
 | 17.00–17.30 | *Coffee break*                            |                                 |                        |
@@ -59,8 +59,8 @@ DAY 3 - Wednesday 01 June 2016
 | 09.00–10.30 | [Structure and interfaces of PPIs](trainingMaterial/allegraVia/structure_and_interfaces)          | Allegra Via       |                        |
 | 10.30–11.00 | *Coffee break*                            |                   |                        |
 | 11.00–12.30 | [Peptide and protein docking (I)](trainingMaterial/oraSchuelerFurman)               |     Ora Schueler-Furman             |                        |
-| 12.30–13.30 | *Lunch*                                   |                   |                        |
-| 13.30–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                 |   Nawsad Alam & Ora Schueler-Furman                |                        |
+| 12.30–14.00 | *Lunch* and second *poster session*                                  |                   |                        |
+| 14.00–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                 |   Nawsad Alam & Ora Schueler-Furman                |                        |
 | 15.30–16.00 | *Coffee break*                            |                   |                        |
 | 16.00–17.00 | Plenary: Modular Protein Architecture and the Construction of Cell Regulatory Systems                              | Toby Gibson        |                        |
 | 17.00–17.30 | *Coffee break*                            |                   |                        |
