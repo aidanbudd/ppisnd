@@ -112,7 +112,7 @@ DAY 5 - Friday 03 June 2016
 DAY 6 - Saturday 04 June 2016
 --------------------------------
 
-### Chair: Zsuzsanna Dosztanyi
+### Chair: Toby Gibson - Zsuzsanna Dosztanyi
 
 | Time        | Activity                                              | Responsible                                       | Location               |
 | :---------- | :----------------------------------------             | :-------------                                    | :--------------------- |
