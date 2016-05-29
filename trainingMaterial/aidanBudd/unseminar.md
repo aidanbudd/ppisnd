@@ -1,7 +1,7 @@
 ---
 title: Unseminar
 layout: page
-navigation: 34
+navigation: 24
 author: Aidan Budd & Holger Dinkel
 ---
 
