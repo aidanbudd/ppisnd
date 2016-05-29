@@ -1,7 +1,7 @@
 ---
-title: Protein Feature Prediction
+title: Repeats and low complexity regions
 layout: page
-navigation: 42
+navigation: 51
 author: Miguel Andrade
 ---
 
