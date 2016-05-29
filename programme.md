@@ -22,7 +22,7 @@ td:nth-child(4) { width: 5%;}
 DAY 1 - Monday 30 May 2016
 --------------------------------
 
-### Chair: Toby Gibson
+### Chair: Tamas Korcsmaros - Holger Dinkel
 
 | Time        | Activity                                                                                                       | Responsible         | Location               |
 | :---------- | :------------------------------------------------------------------------------------------------------------- | :------------------ | :--------------------- |
@@ -40,7 +40,7 @@ DAY 1 - Monday 30 May 2016
 DAY 2 - Tuesday 31 May 2016
 --------------------------------
 
-### Chair: Toby Gibson
+### Chair: Allegra Via - Miguel Andrade
 
 | Time        | Activity                                  | Responsible                     | Location               |
 | :---------- | :---------------------------------------- | :-------------                  | :--------------------- |
@@ -58,7 +58,7 @@ DAY 2 - Tuesday 31 May 2016
 DAY 3 - Wednesday 01 June 2016
 --------------------------------
 
-### Chair: Aidan Budd
+### Chair: Marco Punta - Scooter Morris
 
 | Time        | Activity                                  | Responsible       | Location               |
 | :---------- | :---------------------------------------- | :-------------    | :--------------------- |
@@ -75,7 +75,7 @@ DAY 3 - Wednesday 01 June 2016
 DAY 4 - Thursday 02 June 2016
 --------------------------------
 
-### Chair: Aidan Budd
+### Chair: Lars Juhl Jensen - Nadya Doncheva
 
 | Time        | Activity                                                  | Responsible    | Location               |
 | :---------- | :----------------------------------------                 | :------------- | :--------------------- |
@@ -92,7 +92,7 @@ DAY 4 - Thursday 02 June 2016
 DAY 5 - Friday 03 June 2016
 --------------------------------
 
-### Chair: Tamas Korcsmaros
+### Chair: Tamas Korcsmaros - Natasha Wood
 
 | Time        | Activity                                               | Responsible                 | Location               |
 | :---------- | :----------------------------------------              | :-------------              | :--------------------- |
@@ -112,7 +112,7 @@ DAY 5 - Friday 03 June 2016
 DAY 6 - Saturday 04 June 2016
 --------------------------------
 
-### Chair: Tamas Korcsmaros
+### Chair: Toby Gibson - Zsuzsanna Dosztanyi
 
 | Time        | Activity                                              | Responsible                                       | Location               |
 | :---------- | :----------------------------------------             | :-------------                                    | :--------------------- |
