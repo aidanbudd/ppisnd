@@ -7,7 +7,7 @@ author: Scooter Morris
 
  Demo: [HIV Capsid](hiv-demo.html) 
  <br/>
- Demo: [Demo data](hiv_data)
+ Demo: [Demo data](hiv_data/hiv-data.zip)
 
  Tutorial: [Getting Started (pdf)](Chimera_Getting_Started_Tutorial.pdf) 
  <br/>
