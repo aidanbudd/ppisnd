@@ -78,7 +78,7 @@ DAY 4 - Thursday 02 June 2016
 
 | Time        | Activity                                                                                               | Responsible                                       |
 | :---------- | :----------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| 09.00–10.30 | [Multiple sequence alignments and Jalview](trainingMaterial/tobyGibson/MSA_Jalview)                    | Toby Gibson & Holger Dinkel                       |
+| 09.00–10.30 | [Multiple sequence alignments and Jalview](trainingMaterial/tobyGibson/MSA_Jalview)                    | Toby Gibson and Aidan Budd                        |
 | 10.30–11.00 | *Coffee break*                                                                                         |                                                   |
 | 11.00–12.30 | [Protein families and domains and annotation transfer (I)](trainingMaterial/marcoPunta)                | Marco Punta                                       |
 | 12.30–13.30 | *Lunch*                                                                                                |                                                   |
