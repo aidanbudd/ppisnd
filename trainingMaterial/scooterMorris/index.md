@@ -5,7 +5,7 @@ navigation: 22
 author: Scooter Morris
 ---
 
- Demo: [HIV Capsid](hiv_data/index.html)
+ Demo: [HIV Capsid](hiv_data/hiv-demo.html)
 
  Tutorial: [Getting Started (pdf)](Chimera_Getting_Started_Tutorial.pdf)
  Tutorial: [Getting Started (html)](http://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/menutut.html)
