@@ -69,11 +69,11 @@ MKK7 UniprotKB AC: O14733
 ```
 
 ###1. Build the homology model of Gadd45β
-At the time of writing, the crystal structure of Gadd45β is not available in the PDB. Therefore, we will use a homology model of Gadd45β. If you want to learn how to **build the homology model** of Gadd45β using HHPred (http://toolkit.tuebingen.mpg.de/hhpred), an online resource for homology modelling and more, you can follow the step-by-step [tutorial on homology modelling](tutorial_on_homology_modelling.md). For the purposes of this tutorial, you can download the model provided in the [pdb](https://github.com/aidanbudd/ppisnd/tree/gh-pages/trainingMaterial/allegraVia/PPI/data/pdb) folder and go to the next step.
+At the time of writing, the crystal structure of Gadd45β is not available in the PDB. Therefore, we will use a homology model of Gadd45β. If you want to learn how to **build the homology model** of Gadd45β using HHPred (http://toolkit.tuebingen.mpg.de/hhpred), an online resource for homology modelling and more, you can follow the step-by-step [tutorial on homology modelling](tutorial_on_homology_modelling). For the purposes of this tutorial, you can download the model provided in the [pdb](https://github.com/aidanbudd/ppisnd/blob/4eb1724d5d9ce5dbd184288b0e2db304bf3c493d/trainingMaterial/allegraVia/PPI/data/pdb.tar.gz) folder and go to the next step.
 
 ###2. Retrieve the crystal structure of the most appropriate conformation for MKK7
 
-If you are already familiar with the Protein Data Bank (PDB) and/or want to quickly go to the next step, you can directly download the MKK7 3D structure (1DYL.pdb) provided in the [pdb](https://github.com/aidanbudd/ppisnd/tree/gh-pages/trainingMaterial/allegraVia/PPI/data/pdb) folder and skip the rest of this section.
+If you are already familiar with the Protein Data Bank (PDB) and/or want to quickly go to the next step, you can directly download the MKK7 3D structure (1DYL.pdb) provided in the [pdb](https://github.com/aidanbudd/ppisnd/blob/4eb1724d5d9ce5dbd184288b0e2db304bf3c493d/trainingMaterial/allegraVia/PPI/data/pdb.tar.gz) folder and skip the rest of this section.
 
 If you want to learn how to use the PDB and/or Uniprot to retrieve structural information and search for specific PDB files, you can keep     reading this section.
 
