@@ -27,7 +27,7 @@
 Complex prediction:
 
 - Theory ([PPT presentation](./PPI/protein_interface_and_prediction_of_3d_protein_complexes.pptx))
-- Tutorials ([Protein docking with ClusPro](./PPI/tutorial_on_protein_docking.md); [Visualise and exlpore docking solutions with Chimera](./PPI/tutorial_on_docking_results_using_chimera.md); [Homology modelling](./PPI/tutorial_on_homology_modelling.md))
+- Tutorials ([Protein docking with ClusPro](./PPI/tutorial_on_protein_docking); [Visualise and exlpore docking solutions with Chimera](./PPI/tutorial_on_docking_results_using_chimera); [Homology modelling](./PPI/tutorial_on_homology_modelling))
 
 Structures and models:
 
