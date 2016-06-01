@@ -19,7 +19,7 @@ author: Marco Punta
 
 ## Exercise 3
 
-- [2lhu.pdb](Exercise-3/2lhu.pdb)
+- [file.pdb](Exercise-3/file.pdb)
 - [family-building-excercise.fasta](Exercise-3/family-building-excercise.fasta)
 - [hmmer-ali.fasta](Exercise-3/hmmer-ali.fasta)
 - [jalview-ali.fasta](Exercise-3/jalview-ali.fasta)
