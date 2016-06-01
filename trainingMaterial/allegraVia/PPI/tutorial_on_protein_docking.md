@@ -73,7 +73,7 @@ At the time of writing, the crystal structure of Gadd45β is not available in th
 
 ###2. Retrieve the crystal structure of the most appropriate conformation for MKK7
 
-If you are already familiar with the Protein Data Bank (PDB) and/or want to quickly go to the next step, you can directly download the MKK7 3D structure (1DYL.pdb) provided in the [pdb](data/pdb) folder and skip the rest of this section.
+If you are already familiar with the Protein Data Bank (PDB) and/or want to quickly go to the next step, you can directly download the MKK7 3D structure (1DYL.pdb) provided in the [pdb](https://github.com/aidanbudd/ppisnd/tree/gh-pages/trainingMaterial/allegraVia/PPI/data/pdb) folder and skip the rest of this section.
 
 If you want to learn how to use the PDB and/or Uniprot to retrieve structural information and search for specific PDB files, you can keep     reading this section.
 
