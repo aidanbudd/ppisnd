@@ -1,28 +1,26 @@
 ---
->* title: Structure and interfaces of PPIs
->* layout: page
->* navigation: 31
->* author: Allegra Via
->
+title: Structure and interfaces of PPIs
+author: Allegra Via
+navigation: 31
 ---
 
 ## Protein-protein interfaces and 3D modelling of protein complexes
 
-> ## Learning Objectives
->
->Protein protein interfaces
->
-> * Learners can tell the difference between stable and transient interactions and can make at least one example for each type of interaction 
-> Learners can describe the main features of protein-protein interfaces
-> * Learners can give the definition of "hot spots"
-> 
-> 3D modelling of protein complexes
-> 
-> * Learners can tell the difference between bound and unbound docking
-> * Learners are able to explain the three key ingredients of docking and how they are interconnected
-> * Learners can explain why clustering docking solutions can be helpful
-> * Learners can use ClusPro to generate 3D models a protein-protein complex 
-> * Learners can critically analyse ClusPro results
+ ## Learning Objectives
+
+Protein protein interfaces
+
+* Learners can tell the difference between stable and transient interactions and can make at least one example for each type of interaction 
+Learners can describe the main features of protein-protein interfaces
+* Learners can give the definition of "hot spots"
+
+3D modelling of protein complexes
+
+* Learners can tell the difference between bound and unbound docking
+* Learners are able to explain the three key ingredients of docking and how they are interconnected
+* Learners can explain why clustering docking solutions can be helpful
+* Learners can use ClusPro to generate 3D models a protein-protein complex 
+* Learners can critically analyse ClusPro results
 
 Complex prediction:
 
