@@ -67,7 +67,7 @@ DAY 3 - Wednesday 01 June 2016
 | 12.30–14.00 | *Lunch* and second *poster session*                                                                    |                                                   |
 | 14.00–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                                 | Nawsad Alam & Ora Schueler-Furman                 |
 | 15.30–16.00 | *Coffee break*                                                                                         |                                                   |
-| 16.00–17.00 | Plenary: Modular Protein Architecture and the Construction of Cell Regulatory Systems                  | Toby Gibson                                       |
+| 16.00–17.00 | [Plenary: Modular Protein Architecture and the Construction of Cell Regulatory Systems](trainingMaterial/tobyGibson/Budapest-EMBO_PPI-Cell-Reg_Toby_6-16.pdf)                  | Toby Gibson                                       |
 | 17.00–17.30 | *Coffee break*                                                                                         |                                                   |
 | 17.30–19.00 | Working with your own data                                                                             |                                                   |
 
