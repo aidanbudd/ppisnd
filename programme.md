@@ -49,7 +49,7 @@ DAY 2 - Tuesday 31 May 2016
 | 12.30–14.00 | *Lunch* and first *poster session*                                                                     |                                                    |
 | 14.00–15.30 | [Chimera protein structure (I)](trainingMaterial/scooterMorris)                                        | Scooter Morris                                     |
 | 15.30–16.00 | *Coffee break*                                                                                         |                                                    |
-| 16.00–17.00 | Plenary talk: SMS in protein communication: How Short Motif Sequences are read and understood          | Ora Schueler-Furman                                |
+| 16.00–17.00 | [Plenary: SMS in protein communication: How Short Motif Sequences are read and understood](trainingMaterial/oraSchuelerFurman/albert_Szent_Gyorgyi_lecture_OSF_5_2016.pdf)           | Ora Schueler-Furman                                |
 | 17.00–17.30 | *Coffee break*                                                                                         |                                                    |
 | 17.30–19.00 | Working with your own data                                                                             |                                                    |
 | 19.00–      | [Unseminar](trainingMaterial/aidanBudd/unseminar)                                                      | Aidan Budd and Holger Dinkel                       |
