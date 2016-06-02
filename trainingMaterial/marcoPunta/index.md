@@ -6,6 +6,11 @@ author: Marco Punta
 ---
 
 
+## Slides
+
+- [Lecture]{EMBO-Course-Budapest-2016-MP.pdf}
+- [Exercises]{EMBO-Exercises-Budapest-2016-MP.pdf}
+
 ## Exercise 1
 
 - [3m71.pdb](Exercise-1/3m71.pdb)
