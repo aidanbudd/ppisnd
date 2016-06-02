@@ -184,13 +184,13 @@ __prediction tool__.
 1.  Search protein SRC_HUMAN (accession P12931) for ELMs using the following parameters:
     -   Cell Compartment: **Not specified**
     -   Motif Probability Cutoff: **100**
-    -   Context information: (leave blank)
+    -   Taxonomic Context: (leave blank)
     1.  How many instances do you find?
 <!---% \#\# How many elm classes (not instances) have been completely filtered (all their instances have been filtered)? -->
     1.  Redo the search (again accession P12931) now using these parameters:
     -   Cell Compartment: **cytosol**
     -   Motif Probability Cutoff: **0.01**
-    -   Context information: Homo sapiens
+    -   Taxonomic Context: Homo sapiens
     1.  How many instances do you find now?
 <!--- \#\# How many elm classes (not instances) have been completely filtered (all their instances have been filtered)? -->
     1.  How many of the instances are 'annotated'?
@@ -292,7 +292,7 @@ the [ELM (Eukaryotic Linear Motif)](http://elm.eu.org) __database__.
 1.  (OPTIONAL) Go to the ELM Pathways page (ELM db -> ELM Pathways) and type "jak" into the search field.
     1. From the search results, click on the link "Jak STAT signaling pathway" for the human pathway (hsa04630)
     1. In the KEGG pathway map, try to locate the "SOS" protein.
-    1. Which color is it? What does that mean?
+    1. Which color is it? (You might need to go back to the ELM pathway page to see the color legend) What does that mean?
     1. Go back tho the ELM database and search for annotated instances in the SOS1_HUMAN protein (use the quick search at the top right of the
        ELM page)
     1. Click on the instance with startposition 1151. Which interaction has been annotated for this instance? Do you find this interactor in the
@@ -306,7 +306,6 @@ the [ELM (Eukaryotic Linear Motif)](http://elm.eu.org) __database__.
 
 # switches.elm.eu.org:
 
- 
 1. Search [Phospho.ELM](http://phospho.elm.eu.org) for transcription factor 'Fos' (id P01101).
 1. You would like to find out which of these annotated phosphorylation sites are involved in switching mechanisms annotated at [Switches.ELM](http://switches.elm.eu.org)? 
     1. For this, enter ``P01101`` into the switches.elm search box ``Search database`` and click submit.
@@ -314,13 +313,22 @@ the [ELM (Eukaryotic Linear Motif)](http://elm.eu.org) __database__.
     1. What type are these?
     1. Click on the first one and investigate the role of the phosphorylation.
 
-1. Use the "Analyse" function at switches.elm and submit the accession number ``O70601``.
+1. (OPTIONAL) Use the "Analyse" function at switches.elm and submit the accession number ``O70601``.
     1. Select residues 170-180 and click submit.
     1. Using the visualization to the right and focussing on the area highlighted by the ``Motif of interest``, what can you find out about:
         1. modified residues?
         1. region of interest?
         1. possible motifs mediating an interaction?
 
+# ProViz:
+
+1. Search [ProViz](http://proviz.ucd.ie) for 'Epsin1', find the human Epsin1 protein and click on 'view'.
+    1. get an overview of this protein's architecture by clicking on the "condensed view" ("star" symbol) in the top right
+    1. Try to locate the DPW motifs that you investigated in Jalview (First try to find them by eye, investigating sequence conservation in the alignment, then use the "search" function)
+1. Search [ProViz](http://proviz.ucd.ie) for 'CDKN1B', find the human protein and click on 'view'
+    1. Try to find a [Cyclin](http://elm.eu.org/elms/DOC_CYCLIN_1.html) interaction motif (you can use a regular expression from ELM if you want to).
+    1. Does it reside in a structured or unstructered region of the protein?
+    1. Can you find information about a switching mechanism that this motif is involved in?
 
 
 # References:
