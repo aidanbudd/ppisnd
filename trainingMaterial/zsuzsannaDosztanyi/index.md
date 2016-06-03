@@ -90,7 +90,7 @@ You can find the output of several other methods there.
 
 ## Exercise 4
 
-### Analyze the protein with the Uniprot acession: P05204
+### Analyze the protein with the Uniprot acession: [P05204](http://www.uniprot.org/uniprot/P05204)
 Find the corresponding Disprot entry (DP00039 )
    
 1. Predict protein disorder for DISPROT DP00039, for example with IUPred
@@ -125,8 +125,8 @@ Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) fro
 
 1. Run ANCHOR for this protein
    (You can also run DISOPRED, but that will take longer)
-2. Can you find corresponding PDB structure for this protein
-    [http://www.rcsb.org/pdb/protein/O00401](http://www.rcsb.org/pdb/protein/Q9IK92)
+2. Can you find corresponding PDB structure for this protein?
+    [http://www.rcsb.org/pdb/protein/Q9IK92](http://www.rcsb.org/pdb/protein/Q9IK92)
 3. Compare predicted disordered binding regions with DISPROT annotation
 
 
@@ -135,8 +135,8 @@ Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) fro
 
 ###   Filtering motif hits
 
-Dynein light chain protein binds to disordered segments that have a TQT binding motifs. One of its known interaction partner is FA83D ( Q9H4H8 ) with the region `VGTQTS`.
-We found  the same sequence fragment in the protein `ASNSD1`.
+Dynein light chain protein binds to disordered segments that have a TQT binding motifs. One of its known interaction partner is FA83D ( [Q9H4H8](http://www.uniprot.org/uniprot/Q9H4H8) ) with the region `VGTQTS`.
+We found  the same sequence fragment in the protein [ASNSD1](http://www.uniprot.org/uniprot/Q9NWL6).
 
  
 1. Do you think it can be a valid binding partner?
