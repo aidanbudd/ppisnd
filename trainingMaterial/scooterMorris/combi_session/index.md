@@ -22,6 +22,8 @@ Besides explicitly querying STRING for a list of proteins, the app also gives th
 
 This is all it takes to obtain a network for a disease. You can use the "Expand network" function of the app to add proteins, which are functionally associated with proteins linked to the disease (these might be new candidates). You may want to color the nodes in the network based on, for example, their tissue expression ("nervous system" would make sense for Alzheimer's disease) or target class ("pharos family").
 
+You can use multiple disease queries in conjuction with Cytoscape's merge function to identify proteins that may explain comorbidities. For example, Alzheimer's disease shows comorbidity with glaucoma. Retrieve a network for each disease find the intersection.
+
 
 ### Obtaining a network of proteins associated with a PubMed query
 
