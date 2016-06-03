@@ -330,6 +330,23 @@ the [ELM (Eukaryotic Linear Motif)](http://elm.eu.org) __database__.
     1. Does it reside in a structured or unstructered region of the protein?
     1. Can you find information about a switching mechanism that this motif is involved in?
 
+1.  (OPTIONAL) Use ProViz to visualize the following protein sequences to get an overview over different protein architectures:
+    1.  EGFR_HUMAN
+    2.  CASP9_HUMAN
+    3.  EPN1_HUMAN
+    4.  SMAD3_HUMAN 
+    5.  SOS1_HUMAN
+    6.  PTN3_HUMAN
+    7.  SRRM2_HUMAN
+    8.  KMT2D_HUMAN
+    9.  KI67_HUMAN 
+    10. AP180_HUMAN
+    11. Q94833_TRIVA
+    12. AMPH_HUMAN
+    13. MAPK2_HUMAN
+    14. CTNB1_HUMAN
+    15. JUN_HUMAN 
+
 
 # References:
 1. Dinkel H, Van Roey K, Michael S, Kumar M, Uyar B, Altenberg B, Milchevskaya V, Schneider M, Kühn H, Behrendt A, Dahl SL, Damerell V, Diebel S, Kalman S, Klein S, Knudsen AC, Mäder C, Merrill S, Staudt A, Thiel V, Welti L, Davey NE, Diella F, Gibson TJ. (2016) "**ELM 2016-data update and new functionality of the eukaryotic linear motif resource.**" Nucleic Acids Res 44 [[URL](http://europepmc.org/abstract/MED/26615199)]
