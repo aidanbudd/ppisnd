@@ -2,6 +2,6 @@
 title: Molecular dynamics
 layout: page
 navigation: 61
-author: Natasha Woods
+author: Natasha Wood
 ---
 
