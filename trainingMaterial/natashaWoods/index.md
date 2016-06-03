@@ -28,4 +28,5 @@ author: Natasha Wood
 # Chimera command line to animate your protein:
 
     movie record ; turn y 3 120 ; wait 120 ; movie stop  ; movie encode output ~/Desktop/turn.mov bitrate 10000
+
     movie record ; rock y 4 68 ; wait ; rock x 4 68 ; wait ; movie stop ; movie encode output ~/Desktop/rock.mov
