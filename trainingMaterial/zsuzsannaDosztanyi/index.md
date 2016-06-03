@@ -5,15 +5,16 @@ navigation: 52
 author: Zsuzsanna Dosztanyi
 ---
 
+___
 
 
 # Tutorial
 
 ## Exercise 1
 
-### DISPROT database and analyzing calcineurin A
+### DISPROT database and analyzing `calcineurin A`
 
-1.  Find calcineurin A (PP2BA\_HUMAN) in DISPROT
+1.  Find `calcineurin A` (PP2BA\_HUMAN) in DISPROT
     [www.disprot.org](http://www.disprot.org/)
     
     (DP00092)
@@ -34,7 +35,7 @@ ___
 
 ### Disorder prediction methods 
 
-1.  Collect prediction outputs for calcineurin A using various methods!
+1.  Collect prediction outputs for `calcineurin A` using various methods!
 
 
 The input can be (depending on the method):
@@ -77,7 +78,7 @@ ___
 
 ### MobiDB database
 
-1. Find calcineurin in MOBIDB
+1. Find `calcineurin A` in MOBIDB
  [http://mobidb.bio.unipd.it/entries/Q08209](http://mobidb.bio.unipd.it/entries/Q08209)
 
 You can find the output of several other methods there.
@@ -93,7 +94,7 @@ ___
 ## Exercise 4
 
 ### Analyze the protein with the Uniprot acession: [P05204](http://www.uniprot.org/uniprot/P05204)
-Find the corresponding Disprot entry (DP00039 )
+Find the corresponding Disprot entry (DP00039)
    
 1. Predict protein disorder for DISPROT DP00039, for example with IUPred
 2. Count number of positively charged amino acids
