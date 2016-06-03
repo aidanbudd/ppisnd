@@ -151,13 +151,18 @@ Is the matching region predicted to have a disordered binding region?
 
 ## Excercise 7
 
-### Characterize  your favorite protein in terms of disorder and disordered binding regions
+### Characterize your favorite protein 
 
 If you don't have a favourite protein, use N-WASP as an example
 ([O00401](http://www.uniprot.org/uniprot/O00401))
 
+in terms of disorder and disordered binding regions
 
-
+1. Run disorder prediction methods (e.g. IUPred, PONDR VSL2, ESpritz)
+2. Run disordered binding region prediction methods (e.g ANCHOR, DISOPRED3, MorfCHIBI)
+3. Collect Pfam annotation
+4. Check coiled coil and low complexity predictions
+5. Check MobiDB
 
 
 
