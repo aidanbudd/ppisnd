@@ -133,7 +133,7 @@ Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) fro
 - ANCHOR [http://iupred.enzim.hu](http://anchor.enzim.hu/)
 - DISOPRED3 [http://bioinf.cs.ucl.ac.uk/psipred/](http://bioinf.cs.ucl.ac.uk/psipred/)
       (choose Disopred2 and 3 option!!!)
-- MORFchibi (MORFchibi)[http://morf.chibi.ubc.ca:8080/mcw/index.xhtml)
+- MORFchibi [http://morf.chibi.ubc.ca:8080/mcw/index.xhtml](http://morf.chibi.ubc.ca:8080/mcw/index.xhtml)
    
 
 
