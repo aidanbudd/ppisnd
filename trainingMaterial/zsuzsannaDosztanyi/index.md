@@ -27,7 +27,7 @@ author: Zsuzsanna Dosztanyi
     4. By what experimental techniques?
     5. What is the role of the disordered segments?
 
-
+___
 
 
 ##  Exercise 2 
@@ -70,6 +70,7 @@ Some disorder prediction methods:
 4. Which method predicts the most disorder?
 5. Note the differences in the running time of the methods.
 
+___
 
 
 ## Exercise 3 
@@ -86,6 +87,7 @@ You can find the output of several other methods there.
 3. Can you find regions that cannot be unambigiously assigned? 
     What could be the reason for that?    
 
+___
 
 
 ## Exercise 4
@@ -115,6 +117,7 @@ Find the corresponding Disprot entry (DP00039 )
 
 Is there a contradiction between PFAM domain assignments and predicted disorder?
 
+___
 
 
 ## Excercise 5
@@ -136,6 +139,7 @@ Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) fro
 - MORFchibi [http://morf.chibi.ubc.ca:8080/mcw/index.xhtml](http://morf.chibi.ubc.ca:8080/mcw/index.xhtml)
    
 
+___
 
 
 ## Exercise 6
@@ -154,6 +158,8 @@ You can add the `VGTQTS` motif to the search too in the motif window
 
 Is the matching region predicted to have a disordered binding region?
 
+
+___
 
 
 ## Excercise 7
