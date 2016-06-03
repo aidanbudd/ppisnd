@@ -119,7 +119,9 @@ Is there a contradiction between PFAM domain assignments and predicted disorder?
 
 ## Excercise 5
 
-### Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) protein from the viewpoint disordered binding region
+### Identify likely disordered binding regions
+
+Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) from the viewpoint of disordered binding region
 
 1. Run ANCHOR for this protein
    (You can also run DISOPRED, but that will take longer)
