@@ -5,6 +5,17 @@ navigation: 52
 author: Zsuzsanna Dosztanyi
 ---
 
+
+
+
+
+
+
+---
+title: Prediction of protein disorder
+author: Zsuzsanna Dosztanyi
+---
+
 # Tutorial
 
 ## Exercise 1
@@ -13,8 +24,8 @@ author: Zsuzsanna Dosztanyi
 
 1.  Find calcineurin A (PP2BA\_HUMAN) in DISPROT
     [www.disprot.org](http://www.disprot.org/)
-
- (DP00092)    
+    
+(DP00092
 
     You can start from UNIPROT, it has a link to DISPROT 
     or search DISPROT directly by keyword (sequence search does not work).
@@ -104,7 +115,9 @@ Find the corresponding Disprot entry (DP00039 )
      This command download the sequence to your current directory
     - run seg command on your sequence, this will indicate low complexity regions in your sequence  in lower case letters
      seg P05204.fasta
-(you can take these from PFAM through  uniprot)
+
+	(or you can take these from PFAM through  uniprot)
+
 6. Check PFAM domains
 
 Is there a contradiction between PFAM domain assignments and predicted disorder?
