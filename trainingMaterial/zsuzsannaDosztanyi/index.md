@@ -13,7 +13,9 @@ author: Zsuzsanna Dosztanyi
 
 1.  Find calcineurin A (PP2BA\_HUMAN) in DISPROT
     [www.disprot.org](http://www.disprot.org/)
-    
+
+ (DP00092)    
+
     You can start from UNIPROT, it has a link to DISPROT 
     or search DISPROT directly by keyword (sequence search does not work).
 
@@ -24,7 +26,7 @@ author: Zsuzsanna Dosztanyi
     5. What is the role of the disordered segments?
 
 
->> (DP00092)
+
 
 ##  Exercise 2 
 
