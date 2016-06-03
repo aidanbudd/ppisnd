@@ -6,18 +6,14 @@ author: Zsuzsanna Dosztanyi
 ---
 
 
----
-title: Prediction of protein disorder
-author: Zsuzsanna Dosztanyi
----
 
 # Tutorial
 
 ## Exercise 1
 
-### DISPROT database and analyzing `calcineurin A`
+### DISPROT database and analyzing calcineurin A
 
-1.  Find `calcineurin A` (PP2BA\_HUMAN) in DISPROT
+1.  Find calcineurin A (PP2BA\_HUMAN) in DISPROT
     [www.disprot.org](http://www.disprot.org/)
     
     (DP00092)
@@ -38,7 +34,7 @@ author: Zsuzsanna Dosztanyi
 
 ### Disorder prediction methods 
 
-1.  Collect prediction outputs for `calcineurin A` using various methods!
+1.  Collect prediction outputs for calcineurin A using various methods!
 
 
 The input can be (depending on the method):
@@ -80,7 +76,7 @@ Some disorder prediction methods:
 
 ### MobiDB database
 
-1. Find `calcineurin A` in MOBIDB
+1. Find calcineurin in MOBIDB
  [http://mobidb.bio.unipd.it/entries/Q08209](http://mobidb.bio.unipd.it/entries/Q08209)
 
 You can find the output of several other methods there.
@@ -94,7 +90,7 @@ You can find the output of several other methods there.
 
 ## Exercise 4
 
-### Analyze the protein with the Uniprot acession: `P05204`
+### Analyze the protein with the Uniprot acession: P05204
 Find the corresponding Disprot entry (DP00039 )
    
 1. Predict protein disorder for DISPROT DP00039, for example with IUPred
@@ -121,41 +117,23 @@ Is there a contradiction between PFAM domain assignments and predicted disorder?
 
 
 
-## Excercise 6
+## Excercise 5
 
-### Characterize `human N-WASP` ([O00401](http://www.uniprot.org/uniprot/O00401)) protein from the viewpoint of order and disorder
+### Characterize viral protein ([Q9IK92](http://www.uniprot.org/uniprot/Q9IK92)) protein from the viewpoint disordered binding region
 
-1. You can check PDB structures for this protein here:
-    [http://www.rcsb.org/pdb/protein/O00401](http://www.rcsb.org/pdb/protein/O00401)
-2. Find PFAM families and  check their type
-
-    1. Click on the domain
-    2. Click on "Curation and model"
-    3. Check type: 
-
-       - domain 
-       - family
-       - motif
-
-3. Find low complexity regions (you can use pfam annotations). Which amino acids dominate in the low complexity region?
-4. Predict disorder (e.g. with IUPred)
-5. Which regions would you call disordered?
+1. Run ANCHOR for this protein
+   (You can also run DISOPRED, but that will take longer)
+2. Can you find corresponding PDB structure for this protein
+    [http://www.rcsb.org/pdb/protein/O00401](http://www.rcsb.org/pdb/protein/Q9IK92)
+3. Compare predicted disordered binding regions with DISPROT annotation
 
 
-Now find binding regions located within disordered segments
 
-1. Using the accession number for `human N-WASP`, find the data for this protein in the IDEAL database
-IDEAL [http://www.ideal.force.cs.is.nagoya-u.ac.jp/IDEAL/](http://www.ideal.force.cs.is.nagoya-u.ac.jp/IDEAL/)
-2. Can you find regions for this proteins that are annotated as disordered binding regions (called **ProS** in this database) ?
-3. Predict disordered binding regions using ANCHOR [http://anchor.enzim.hu](http://anchor.enzim.hu/) 
-or [MORF_chibi]()
-
-
-## Exercise 7
+## Exercise 6
 
 ###   Filtering motif hits
 
-Dynein light chain protein binds to disordered segments that have a `TQT` binding motifs. One of its known interaction partner is FA83D ( Q9H4H8 ) with the region `VGTQTS`.
+Dynein light chain protein binds to disordered segments that have a TQT binding motifs. One of its known interaction partner is FA83D ( Q9H4H8 ) with the region `VGTQTS`.
 We found  the same sequence fragment in the protein `ASNSD1`.
 
  
@@ -168,6 +146,13 @@ You can add the `VGTQTS` motif to the search too in the motif window
 Is the matching region predicted to have a disordered binding region?
 
 
+
+## Excercise 7
+
+### Characterize  your favorite protein in terms of disorder and disordered binding regions
+
+If you don't have a favourite protein, use N-WASP as an example
+([O00401](http://www.uniprot.org/uniprot/O00401))
 
 
 
