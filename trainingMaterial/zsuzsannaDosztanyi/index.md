@@ -147,7 +147,7 @@ ___
 
 ###   Filtering motif hits
 
-Dynein light chain protein binds to disordered segments that have a TQT binding motifs. One of its known interaction partner is FA83D ( [Q9H4H8](http://www.uniprot.org/uniprot/Q9H4H8) ) with the region `VGTQTS`.
+Dynein light chain protein binds to disordered segments that have a `TQT` binding motifs. One of its known interaction partner is `FA83D` ( [Q9H4H8](http://www.uniprot.org/uniprot/Q9H4H8) ) with the region `VGTQTS`.
 We found  the same sequence fragment in the protein [ASNSD1](http://www.uniprot.org/uniprot/Q9NWL6).
 
  
@@ -168,7 +168,7 @@ ___
 ### Characterize your favorite protein 
 in terms of disorder and disordered binding regions
 
-If you don't have a favourite protein, use N-WASP as an example
+If you don't have a favourite protein, use `N-WASP` as an example
 ([O00401](http://www.uniprot.org/uniprot/O00401))
 
 
