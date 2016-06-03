@@ -105,11 +105,13 @@ Find the corresponding Disprot entry (DP00039 )
 5. Check low complexity segments 
     - log on to the server machine using either putty (on WIndows) or your terninal (linux or Mac)
     - download the sequence using the following command:
-     wget http://www.uniprot.org/uniprot/P05204.fasta
      
-     This command download the sequence to your current directory
+    wget http://www.uniprot.org/uniprot/P05204.fasta
+     
+     This command downloads the sequence to your current directory
     - run seg command on your sequence, this will indicate low complexity regions in your sequence  in lower case letters
-     seg P05204.fasta
+   
+    seg P05204.fasta
 
 	(or you can take these from PFAM through  uniprot)
 
