@@ -5,6 +5,8 @@ navigation: 62
 author: Scooter Morris, Nadya Doncheva, Lars Juhl Jensen
 ---
 
+For this session you will be using the new [STRING App](http://apps.cytoscape.org/apps/stringapp) for Cytoscape. Install this app if you have not done so already. If you already installed it earlier, please make sure that you have the latest version installed.
+
 ### Network visualization of proteomics data
 
 For this practical we will use data from the paper ["Temporal proteomics of NGF-TrkA signaling identifies an inhibitory role for the E3 ligase Cbl-b in neuroblastoma cell differentiation"](http://www.ncbi.nlm.nih.gov/pubmed/25921289). Specifically, we will use [Supplementary Table S1](Table_S1.xlsx).
