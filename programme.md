@@ -121,7 +121,7 @@ DAY 6 - Saturday 04 June 2016
 | 12.30–13.30 | *Lunch*                                                                                                |                                                   |
 | 13.30–15.00 | Working with own data                                                                                  |                                                   |
 | 15.00–15.30 | *Coffee break*                                                                                         |                                                   |
-| 15.30–17.00 | Pulling all together - Summary                                                                         | Tamas Korcsmaros                                  |
+| 15.30–17.00 | [Pulling all together - Summary](trainingMaterial/tamasKorcsmaros/EMBO-PPI-Day6-2016_TKorcsmaros_out.pptx)                                                                         | Tamas Korcsmaros                                  |
 | 17.00–      | Closing                                                                                                |                                                   |
 
 ---
