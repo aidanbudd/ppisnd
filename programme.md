@@ -115,7 +115,7 @@ DAY 6 - Saturday 04 June 2016
 
 | Time        | Activity                                                                                               | Responsible                                       |
 | :---------- | :----------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| 09.00–10.30 | [Molecular dynamics to study PPIs](trainingMaterial/natashaWoods)                                      | Natasha Wood                                      |
+| 09.00–10.30 | [Molecular dynamics to study PPIs](trainingMaterial/natashaWood)                                      | Natasha Wood                                      |
 | 10.30–11.00 | *Coffee break*                                                                                         |                                                   |
 | 11.00–12.30 | [Network visualization with Cytoscape combined session](trainingMaterial/scooterMorris/combi_session/) | Scooter Morris, Nadya Doncheva & Lars Juhl Jensen |
 | 12.30–13.30 | *Lunch*                                                                                                |                                                   |
