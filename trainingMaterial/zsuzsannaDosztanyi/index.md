@@ -7,6 +7,10 @@ author: Zsuzsanna Dosztanyi
 
 ___
 
+# Presentation
+
+In PFD format: [link](http://aidanbudd.github.io/ppisnd/trainingMaterial/zsuzsannaDosztanyi/IDP.pdf)
+In PPT format: [link](http://aidanbudd.github.io/ppisnd/trainingMaterial/zsuzsannaDosztanyi/IDP.ppt)
 
 # Tutorial
 
