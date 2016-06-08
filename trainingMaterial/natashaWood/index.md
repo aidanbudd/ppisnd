@@ -6,6 +6,11 @@ author: Natasha Wood
 ---
 # Links
 
+# Presentations:
+
+- [What is MD](http://aidanbudd.github.io/ppisnd/trainingMaterial/natashaWood/What_is_MD.pdf)
+- [How to run MD](http://aidanbudd.github.io/ppisnd/trainingMaterial/natashaWood/How_to_run_MD.pdf)
+
 # Software:
 
 - [VMD](http://www.ks.uiuc.edu/Research/vmd/)
