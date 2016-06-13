@@ -31,6 +31,6 @@ Links:
 
 # Presentations:
 
-- [lesson_1_model3D_4.pptx](trainingMaterial/miguelAndrade/lesson_1_model3D_4.pptx)
-- [lesson_2_pred2D_4.pptx](trainingMaterial/miguelAndrade/lesson_2_pred2D_4.pptx)
-- [lesson_3_predTM_3.pptx](trainingMaterial/miguelAndrade/lesson_3_predTM_3.pptx)
+- [lesson_1_model3D_4.pptx](lesson_1_model3D_4.pptx)
+- [lesson_2_pred2D_4.pptx](lesson_2_pred2D_4.pptx)
+- [lesson_3_predTM_3.pptx](lesson_3_predTM_3.pptx)

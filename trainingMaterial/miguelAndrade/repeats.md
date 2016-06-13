@@ -38,5 +38,5 @@ Links:
 
 # Presentations:
 
-- [lesson_4_bias_6.pptx](trainingMaterial/miguelAndrade/lesson_4_bias_6.pptx)
-- [lesson_5_polyQ_3.pptx](trainingMaterial/miguelAndrade/lesson_5_polyQ_3.pptx)
+- [lesson_4_bias_6.pptx](lesson_4_bias_6.pptx)
+- [lesson_5_polyQ_3.pptx](lesson_5_polyQ_3.pptx)
